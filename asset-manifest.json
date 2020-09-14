@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/cardmemorygame/static/css/main.3fbaf358.chunk.css",
-    "main.js": "/cardmemorygame/static/js/main.21e46f41.chunk.js",
-    "main.js.map": "/cardmemorygame/static/js/main.21e46f41.chunk.js.map",
+    "main.js": "/cardmemorygame/static/js/main.39fb66fe.chunk.js",
+    "main.js.map": "/cardmemorygame/static/js/main.39fb66fe.chunk.js.map",
     "runtime-main.js": "/cardmemorygame/static/js/runtime-main.f653b466.js",
     "runtime-main.js.map": "/cardmemorygame/static/js/runtime-main.f653b466.js.map",
     "static/css/2.d9ad5f5c.chunk.css": "/cardmemorygame/static/css/2.d9ad5f5c.chunk.css",
     "static/js/2.2b049d2d.chunk.js": "/cardmemorygame/static/js/2.2b049d2d.chunk.js",
     "static/js/2.2b049d2d.chunk.js.map": "/cardmemorygame/static/js/2.2b049d2d.chunk.js.map",
     "index.html": "/cardmemorygame/index.html",
-    "precache-manifest.2ff9642cde5b47eab9c2bc55cadd60d4.js": "/cardmemorygame/precache-manifest.2ff9642cde5b47eab9c2bc55cadd60d4.js",
+    "precache-manifest.4bebf9ca5f686cf83f1413be1056cf63.js": "/cardmemorygame/precache-manifest.4bebf9ca5f686cf83f1413be1056cf63.js",
     "service-worker.js": "/cardmemorygame/service-worker.js",
     "static/css/2.d9ad5f5c.chunk.css.map": "/cardmemorygame/static/css/2.d9ad5f5c.chunk.css.map",
     "static/css/main.3fbaf358.chunk.css.map": "/cardmemorygame/static/css/main.3fbaf358.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.d9ad5f5c.chunk.css",
     "static/js/2.2b049d2d.chunk.js",
     "static/css/main.3fbaf358.chunk.css",
-    "static/js/main.21e46f41.chunk.js"
+    "static/js/main.39fb66fe.chunk.js"
   ]
 }
