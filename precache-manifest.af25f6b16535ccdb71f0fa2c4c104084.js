@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a8e7e2214775eaebe0d08414a2048d0a",
+    "revision": "3ae42eb71bc6efbfc5876c557c9121cf",
     "url": "/cardmemorygame/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cardmemorygame/static/css/2.d9ad5f5c.chunk.css"
   },
   {
-    "revision": "2946e2168665cfc16949",
+    "revision": "8ab86f00962cd730914b",
     "url": "/cardmemorygame/static/css/main.3fbaf358.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cardmemorygame/static/js/2.2b049d2d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2946e2168665cfc16949",
-    "url": "/cardmemorygame/static/js/main.39fb66fe.chunk.js"
+    "revision": "8ab86f00962cd730914b",
+    "url": "/cardmemorygame/static/js/main.c89197ca.chunk.js"
   },
   {
     "revision": "08d7bfbb67d7f44b89a5",
